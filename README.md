@@ -1,0 +1,1 @@
+# safemoon-type-of-solidity
